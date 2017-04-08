@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libpacket_pool.a  CMakeFiles/packet_pool.dir/ccc_packet.c.o CMakeFiles/packet_pool.dir/packet_pool.c.o
+/usr/bin/ranlib ../../../lib/libpacket_pool.a

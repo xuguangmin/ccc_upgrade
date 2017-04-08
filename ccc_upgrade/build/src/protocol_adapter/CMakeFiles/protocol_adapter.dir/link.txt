@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libprotocol_adapter.a  CMakeFiles/protocol_adapter.dir/protocol_adapter.c.o
+/usr/bin/ranlib ../../../lib/libprotocol_adapter.a

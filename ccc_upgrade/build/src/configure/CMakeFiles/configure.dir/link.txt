@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libconfigure.a  CMakeFiles/configure.dir/configure.c.o
+/usr/bin/ranlib ../../../lib/libconfigure.a

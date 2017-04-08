@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libnetwork.a  CMakeFiles/network.dir/network_manager.c.o CMakeFiles/network.dir/udp_server.c.o CMakeFiles/network.dir/tcp_socket.c.o CMakeFiles/network.dir/client_manager.c.o CMakeFiles/network.dir/udp_socket.c.o
+/usr/bin/ranlib ../../../lib/libnetwork.a

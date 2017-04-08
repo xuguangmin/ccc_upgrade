@@ -1,0 +1,8 @@
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/main/CMakeFiles/ccc_upgrade.dir
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/configure/CMakeFiles/configure.dir
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/file_manager/CMakeFiles/file_manager.dir
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/network/CMakeFiles/network.dir
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/packet_pool/CMakeFiles/packet_pool.dir
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/protocol/CMakeFiles/protocol.dir
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/protocol_adapter/CMakeFiles/protocol_adapter.dir
+/home/flx/developer/workspace_c/ccc_upgrade/build/src/utils/CMakeFiles/utils.dir

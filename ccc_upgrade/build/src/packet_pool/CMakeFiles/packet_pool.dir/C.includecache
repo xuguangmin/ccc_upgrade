@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/protocol/protocol_core.h
+
+/home/flx/developer/workspace_c/ccc_upgrade/src/packet_pool/ccc_packet.c
+stdlib.h
+-
+string.h
+-
+ccc_packet.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/packet_pool/ccc_packet.h
+
+/home/flx/developer/workspace_c/ccc_upgrade/src/packet_pool/ccc_packet.h
+stdint.h
+-
+protocol/protocol_core.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/packet_pool/protocol/protocol_core.h
+
+/home/flx/developer/workspace_c/ccc_upgrade/src/packet_pool/packet_pool.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+ccc_packet.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/packet_pool/ccc_packet.h
+

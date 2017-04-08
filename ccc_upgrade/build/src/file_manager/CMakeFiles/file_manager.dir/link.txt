@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../lib/libfile_manager.a  CMakeFiles/file_manager.dir/file_manager.c.o CMakeFiles/file_manager.dir/upload_file.c.o CMakeFiles/file_manager.dir/md5sum.c.o
+/usr/bin/ranlib ../../../lib/libfile_manager.a

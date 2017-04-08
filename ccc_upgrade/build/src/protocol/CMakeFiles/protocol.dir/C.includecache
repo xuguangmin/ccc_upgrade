@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/util_func.h
+stdint.h
+-
+
+/home/flx/developer/workspace_c/ccc_upgrade/src/protocol/protocol_core.c
+stdio.h
+-
+string.h
+-
+util_func.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/protocol/util_func.h
+protocol_core.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/protocol/protocol_core.h
+
+/home/flx/developer/workspace_c/ccc_upgrade/src/protocol/protocol_core.h
+

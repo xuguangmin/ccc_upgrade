@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ccc_config.h
+
+../include/util_func.h
+stdint.h
+-
+
+/home/flx/developer/workspace_c/ccc_upgrade/src/configure/configure.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+errno.h
+-
+util_func.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/configure/util_func.h
+configure.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/configure/configure.h
+ccc_config.h
+/home/flx/developer/workspace_c/ccc_upgrade/src/configure/ccc_config.h
+
+/home/flx/developer/workspace_c/ccc_upgrade/src/configure/configure.h
+
